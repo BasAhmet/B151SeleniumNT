@@ -1,0 +1,35 @@
+**********************************************
+ödev : 1
+**********************************************
+Yeni bir package olusturalim : day01
+Yeni bir class olusturalim : C03_GetMethods
+Amazon sayfasina gidelim. https://www.amazon.com/
+Sayfa basligini(title) yazdirin
+Sayfa basliginin “Amazon” icerdigini test edin
+Sayfa adresini(url) yazdirin
+Sayfa url’inin “amazon” icerdigini test edin.
+Sayfa handle degerini yazdirin
+Sayfa HTML kodlarinda “Gateway” kelimesi gectigini test edin
+Sayfayi kapatin.
+**********************************************
+ödev : 2
+**********************************************
+Yeni bir Class olusturalim.C05_NavigationMethods
+Youtube ana sayfasina gidelim . https://www.youtube.com/
+Amazon soyfasina gidelim. https://www.amazon.com/
+Tekrar YouTube’sayfasina donelim
+Yeniden Amazon sayfasina gidelim
+Sayfayi Refresh(yenile) yapalim
+Sayfayi kapatalim / Tum sayfalari kapatalim
+**********************************************
+ödev : 3
+**********************************************
+Yeni bir Class olusturalim.C06_ManageWindow
+Amazon soyfasina gidelim. https://www.amazon.com/
+Sayfanin konumunu ve boyutlarini yazdirin
+Sayfayi simge durumuna getirin
+simge durumunda 3 saniye bekleyip sayfayi maximize yapin
+Sayfanin konumunu ve boyutlarini maximize durumunda yazdirin
+Sayfayi fullscreen yapin
+Sayfanin konumunu ve boyutlarini fullscreen durumunda yazdirin
+Sayfayi kapatin
